@@ -1,0 +1,64 @@
+.heading {
+    text-align: center;
+    font-size: 150px;
+    font-family:'Dancing Script', cursive;
+    background-color: goldenrod;
+    padding: 30px;
+    border-style: solid;
+    color: blue;
+
+}
+.one {
+    text-align: center;}
+.two {
+    text-align: center;}
+body {
+    background-color: lightblue;}
+.why {
+    font-size: 70px;
+    font-family: 'Noto Serif', serif;
+    color: darkblue;
+    text-align: center;
+    border-style: double solid;
+    
+}
+.para {
+    text-align: center;
+    font-size: 40px;
+    background-color: darksalmon;
+
+}
+.needed {
+    font-size: 40px;
+    text-align: center;
+    text-decoration: underline;
+    color: darkblue;
+}
+ol {
+    text-align: center;}
+.text1 {
+    font-size: 85px;
+    text-align: left;
+    display: block;}
+.directions {
+    font-size: 60px;
+    text-align: center;
+    color: brown;
+    text-decoration: underline;
+}
+.need {
+    text-align: left;
+    font-size: 30px;
+    color: blueviolet;
+}
+.bake { 
+    font-size: 30px;
+    text-align: left;
+    color: aliceblue;
+    background-color: lightslategrey;
+}
+.three {
+    text-align: center;
+    align-items:center;
+    
+}
